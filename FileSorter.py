@@ -28,9 +28,9 @@ class Handler(FileSystemEventHandler):
 
 
 # Папка что отслеживается
-folder_track = 'C:/Users/ABROR/Desktop/Python/Python проекты/files/fotografi'
+folder_track = 'Путь папки'
 # Папка куда перемещать будем
-folder_dest = 'C:/Users/ABROR/Desktop/Python/Python проекты/files/kudanado'
+folder_dest = 'Путь папки 2'
 
 # Запуск всего на отслеживание
 handle = Handler()
